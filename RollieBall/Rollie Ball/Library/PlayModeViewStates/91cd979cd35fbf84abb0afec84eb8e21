@@ -20,9 +20,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1098
+    x: 1100
     y: 73
-    width: 366
+    width: 364
     height: 540
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
